@@ -1,0 +1,601 @@
+governance,ruler,strike_share,outsider_harm,final_safety,replaced,first_catastrophe,had_catastrophe,seasons_to_catastrophe
+Accountable leader,AC-001,0.4,109.7,51.7,True,20.0,True,20
+Accountable leader,AC-002,0.35,106.4,33.3,True,20.0,True,20
+Accountable leader,AC-003,0.15,47.4,81.5,False,,False,20
+Accountable leader,AC-004,0.2,55.6,15.9,False,18.0,True,18
+Accountable leader,AC-005,0.1,29.8,20.0,False,16.0,True,16
+Accountable leader,AC-006,0.25,66.69999999999999,44.5,True,11.0,True,11
+Accountable leader,AC-007,0.4,121.7,72.0,True,,False,20
+Accountable leader,AC-008,0.45,105.0,9.0,True,1.0,True,1
+Accountable leader,AC-009,0.4,119.4,15.8,True,3.0,True,3
+Accountable leader,AC-010,0.1,29.6,39.5,False,,False,20
+Accountable leader,AC-011,0.35,112.4,11.5,True,4.0,True,4
+Accountable leader,AC-012,0.1,32.7,48.0,False,,False,20
+Accountable leader,AC-013,0.2,59.2,26.2,False,17.0,True,17
+Accountable leader,AC-014,0.3,82.5,51.5,True,,False,20
+Accountable leader,AC-015,0.2,47.4,40.5,False,7.0,True,7
+Accountable leader,AC-016,0.2,56.199999999999996,54.5,False,,False,20
+Accountable leader,AC-017,0.35,105.2,27.8,True,9.0,True,9
+Accountable leader,AC-018,0.45,113.8,0.0,True,6.0,True,6
+Accountable leader,AC-019,0.3,77.9,46.3,True,7.0,True,7
+Accountable leader,AC-020,0.35,106.3,30.0,True,17.0,True,17
+Accountable leader,AC-021,0.2,46.6,74.5,False,,False,20
+Accountable leader,AC-022,0.35,106.2,16.3,True,10.0,True,10
+Accountable leader,AC-023,0.45,149.4,0.0,True,11.0,True,11
+Accountable leader,AC-024,0.25,70.3,0.0,True,4.0,True,4
+Accountable leader,AC-025,0.05,11.6,29.6,False,,False,20
+Accountable leader,AC-026,0.2,47.2,0.0,False,4.0,True,4
+Accountable leader,AC-027,0.25,71.6,19.0,True,5.0,True,5
+Accountable leader,AC-028,0.15,43.8,66.9,False,,False,20
+Accountable leader,AC-029,0.35,97.9,0.0,True,5.0,True,5
+Accountable leader,AC-030,0.25,85.8,59.4,True,,False,20
+Accountable leader,AC-031,0.5,152.3,77.2,True,,False,20
+Accountable leader,AC-032,0.15,41.1,36.9,False,,False,20
+Accountable leader,AC-033,0.2,49.099999999999994,79.5,False,,False,20
+Accountable leader,AC-034,0.25,78.1,69.5,True,,False,20
+Accountable leader,AC-035,0.3,91.1,0.0,True,11.0,True,11
+Accountable leader,AC-036,0.4,124.7,46.0,True,16.0,True,16
+Accountable leader,AC-037,0.05,10.1,72.4,False,,False,20
+Accountable leader,AC-038,0.2,50.8,73.6,False,,False,20
+Accountable leader,AC-039,0.1,27.5,40.9,False,,False,20
+Accountable leader,AC-040,0.2,64.1,0.5,True,13.0,True,13
+Accountable leader,AC-041,0.15,30.200000000000003,64.6,False,,False,20
+Accountable leader,AC-042,0.3,82.3,54.3,True,,False,20
+Accountable leader,AC-043,0.2,65.3,60.8,True,,False,20
+Accountable leader,AC-044,0.3,95.1,59.2,True,8.0,True,8
+Accountable leader,AC-045,0.35,96.3,53.2,True,4.0,True,4
+Accountable leader,AC-046,0.5,134.4,37.6,True,10.0,True,10
+Accountable leader,AC-047,0.35,89.6,83.2,True,,False,20
+Accountable leader,AC-048,0.2,64.6,0.0,True,9.0,True,9
+Accountable leader,AC-049,0.2,62.8,29.6,True,14.0,True,14
+Accountable leader,AC-050,0.0,0.0,34.9,False,,False,20
+Accountable leader,AC-051,0.35,108.0,53.6,True,,False,20
+Accountable leader,AC-052,0.2,62.099999999999994,15.5,True,11.0,True,11
+Accountable leader,AC-053,0.55,160.2,29.4,True,10.0,True,10
+Accountable leader,AC-054,0.4,127.4,43.0,True,7.0,True,7
+Accountable leader,AC-055,0.35,80.4,12.9,True,3.0,True,3
+Accountable leader,AC-056,0.25,62.2,79.6,True,,False,20
+Accountable leader,AC-057,0.3,97.30000000000001,71.3,True,,False,20
+Accountable leader,AC-058,0.1,22.6,43.2,False,,False,20
+Accountable leader,AC-059,0.25,53.7,46.1,False,20.0,True,20
+Accountable leader,AC-060,0.15,42.8,76.9,False,,False,20
+Accountable leader,AC-061,0.35,104.1,73.9,True,,False,20
+Accountable leader,AC-062,0.3,64.6,10.1,True,14.0,True,14
+Accountable leader,AC-063,0.2,56.5,22.3,False,3.0,True,3
+Accountable leader,AC-064,0.2,68.0,49.3,True,11.0,True,11
+Accountable leader,AC-065,0.25,67.7,39.0,True,14.0,True,14
+Accountable leader,AC-066,0.4,126.8,58.9,True,,False,20
+Accountable leader,AC-067,0.35,100.3,80.9,True,,False,20
+Accountable leader,AC-068,0.15,44.5,1.6,False,8.0,True,8
+Accountable leader,AC-069,0.1,22.5,61.0,False,,False,20
+Accountable leader,AC-070,0.4,99.1,0.0,True,1.0,True,1
+Accountable leader,AC-071,0.25,74.8,68.4,True,,False,20
+Accountable leader,AC-072,0.4,122.3,77.0,True,,False,20
+Accountable leader,AC-073,0.4,106.9,89.9,True,11.0,True,11
+Accountable leader,AC-074,0.1,26.8,2.6,False,15.0,True,15
+Accountable leader,AC-075,0.35,100.2,20.2,True,18.0,True,18
+Accountable leader,AC-076,0.3,87.0,87.0,True,,False,20
+Accountable leader,AC-077,0.25,72.7,71.7,True,,False,20
+Accountable leader,AC-078,0.2,58.2,29.3,False,2.0,True,2
+Accountable leader,AC-079,0.0,0.0,72.4,False,,False,20
+Accountable leader,AC-080,0.2,57.1,8.4,False,1.0,True,1
+Accountable leader,AC-081,0.2,62.8,39.0,True,12.0,True,12
+Accountable leader,AC-082,0.0,0.0,36.8,False,,False,20
+Accountable leader,AC-083,0.35,94.3,29.2,True,7.0,True,7
+Accountable leader,AC-084,0.15,47.0,82.3,False,,False,20
+Accountable leader,AC-085,0.4,113.1,10.3,True,4.0,True,4
+Accountable leader,AC-086,0.15,39.2,0.0,False,6.0,True,6
+Accountable leader,AC-087,0.3,90.0,0.0,True,1.0,True,1
+Accountable leader,AC-088,0.1,35.7,44.5,False,,False,20
+Accountable leader,AC-089,0.35,91.8,35.3,True,17.0,True,17
+Accountable leader,AC-090,0.2,60.300000000000004,41.3,True,15.0,True,15
+Accountable leader,AC-091,0.45,114.3,19.9,True,16.0,True,16
+Accountable leader,AC-092,0.35,115.6,6.7,True,12.0,True,12
+Accountable leader,AC-093,0.25,66.6,33.9,True,14.0,True,14
+Accountable leader,AC-094,0.35,88.80000000000001,26.5,True,16.0,True,16
+Accountable leader,AC-095,0.25,57.2,60.9,False,,False,20
+Accountable leader,AC-096,0.3,80.7,56.0,True,18.0,True,18
+Accountable leader,AC-097,0.35,96.4,0.0,True,5.0,True,5
+Accountable leader,AC-098,0.2,52.9,21.3,False,13.0,True,13
+Accountable leader,AC-099,0.3,79.6,53.7,True,11.0,True,11
+Accountable leader,AC-100,0.2,60.699999999999996,71.3,True,,False,20
+Accountable leader,AC-101,0.3,89.4,32.9,True,10.0,True,10
+Accountable leader,AC-102,0.3,94.1,6.4,True,8.0,True,8
+Accountable leader,AC-103,0.25,71.0,70.7,True,,False,20
+Accountable leader,AC-104,0.2,50.2,1.4,False,4.0,True,4
+Accountable leader,AC-105,0.4,122.69999999999999,96.7,True,,False,20
+Accountable leader,AC-106,0.35,95.3,96.4,True,,False,20
+Accountable leader,AC-107,0.15,38.7,57.5,False,,False,20
+Accountable leader,AC-108,0.35,110.9,66.3,True,,False,20
+Accountable leader,AC-109,0.2,53.6,0.0,False,1.0,True,1
+Accountable leader,AC-110,0.45,119.0,45.2,True,19.0,True,19
+Accountable leader,AC-111,0.15,51.9,0.0,False,4.0,True,4
+Accountable leader,AC-112,0.5,125.9,53.0,True,19.0,True,19
+Accountable leader,AC-113,0.25,79.0,91.4,True,,False,20
+Accountable leader,AC-114,0.3,94.60000000000001,27.5,True,9.0,True,9
+Accountable leader,AC-115,0.25,55.900000000000006,17.4,False,13.0,True,13
+Accountable leader,AC-116,0.2,62.2,63.1,True,,False,20
+Accountable leader,AC-117,0.55,155.7,46.4,True,5.0,True,5
+Accountable leader,AC-118,0.25,68.4,74.0,True,,False,20
+Accountable leader,AC-119,0.35,89.5,58.2,True,11.0,True,11
+Accountable leader,AC-120,0.3,84.2,70.6,True,,False,20
+Accountable leader,AC-121,0.3,90.0,74.5,True,,False,20
+Accountable leader,AC-122,0.45,133.7,10.3,True,10.0,True,10
+Accountable leader,AC-123,0.4,105.3,62.3,True,5.0,True,5
+Accountable leader,AC-124,0.4,101.4,66.6,True,5.0,True,5
+Accountable leader,AC-125,0.25,62.7,44.3,True,7.0,True,7
+Accountable leader,AC-126,0.2,44.9,38.8,False,3.0,True,3
+Accountable leader,AC-127,0.15,46.6,68.0,False,,False,20
+Accountable leader,AC-128,0.1,25.3,16.7,False,15.0,True,15
+Accountable leader,AC-129,0.25,76.60000000000001,57.9,True,,False,20
+Accountable leader,AC-130,0.15,38.8,61.9,False,,False,20
+Accountable leader,AC-131,0.25,70.5,31.0,True,19.0,True,19
+Accountable leader,AC-132,0.35,108.0,43.4,True,1.0,True,1
+Accountable leader,AC-133,0.1,34.1,53.0,False,,False,20
+Accountable leader,AC-134,0.1,29.7,21.9,False,16.0,True,16
+Accountable leader,AC-135,0.05,14.1,45.8,False,,False,20
+Accountable leader,AC-136,0.25,86.5,46.1,True,,False,20
+Accountable leader,AC-137,0.25,69.7,41.5,True,15.0,True,15
+Accountable leader,AC-138,0.25,74.4,79.2,True,,False,20
+Accountable leader,AC-139,0.05,19.7,61.0,False,,False,20
+Accountable leader,AC-140,0.45,132.1,20.4,True,14.0,True,14
+Accountable leader,AC-141,0.05,9.4,55.8,False,,False,20
+Accountable leader,AC-142,0.25,65.6,22.7,True,14.0,True,14
+Accountable leader,AC-143,0.35,99.7,84.9,True,,False,20
+Accountable leader,AC-144,0.55,178.0,0.0,True,18.0,True,18
+Accountable leader,AC-145,0.2,63.9,6.1,True,8.0,True,8
+Accountable leader,AC-146,0.15,47.9,66.9,False,,False,20
+Accountable leader,AC-147,0.25,88.0,53.4,True,7.0,True,7
+Accountable leader,AC-148,0.1,24.8,25.4,False,15.0,True,15
+Accountable leader,AC-149,0.2,49.2,69.5,False,,False,20
+Accountable leader,AC-150,0.3,77.5,21.9,True,19.0,True,19
+Accountable leader,AC-151,0.2,54.400000000000006,38.0,False,15.0,True,15
+Accountable leader,AC-152,0.15,38.5,31.9,False,,False,20
+Accountable leader,AC-153,0.45,112.7,41.4,True,11.0,True,11
+Accountable leader,AC-154,0.1,29.4,12.1,False,16.0,True,16
+Accountable leader,AC-155,0.25,66.8,41.6,True,20.0,True,20
+Accountable leader,AC-156,0.35,110.5,14.3,True,2.0,True,2
+Accountable leader,AC-157,0.1,27.6,78.7,False,,False,20
+Accountable leader,AC-158,0.0,0.0,43.5,False,,False,20
+Accountable leader,AC-159,0.4,102.6,49.5,True,17.0,True,17
+Accountable leader,AC-160,0.45,130.1,32.7,True,16.0,True,16
+Accountable leader,AC-161,0.3,91.9,1.4,True,6.0,True,6
+Accountable leader,AC-162,0.25,73.1,22.6,True,2.0,True,2
+Accountable leader,AC-163,0.5,138.6,63.3,True,,False,20
+Accountable leader,AC-164,0.25,82.0,66.0,True,,False,20
+Accountable leader,AC-165,0.2,49.9,52.6,False,16.0,True,16
+Accountable leader,AC-166,0.3,88.4,61.4,True,,False,20
+Accountable leader,AC-167,0.25,73.7,2.0,True,16.0,True,16
+Accountable leader,AC-168,0.3,76.2,6.0,True,4.0,True,4
+Accountable leader,AC-169,0.15,40.0,52.1,False,,False,20
+Accountable leader,AC-170,0.2,62.4,55.2,True,14.0,True,14
+Accountable leader,AC-171,0.15,33.1,67.4,False,,False,20
+Accountable leader,AC-172,0.25,73.9,17.2,True,3.0,True,3
+Accountable leader,AC-173,0.2,53.199999999999996,77.6,False,,False,20
+Accountable leader,AC-174,0.2,49.6,66.7,False,,False,20
+Accountable leader,AC-175,0.1,30.7,30.0,False,19.0,True,19
+Accountable leader,AC-176,0.1,34.0,28.6,False,11.0,True,11
+Accountable leader,AC-177,0.25,76.10000000000001,34.5,True,11.0,True,11
+Accountable leader,AC-178,0.25,60.8,76.2,True,,False,20
+Accountable leader,AC-179,0.15,31.599999999999998,66.8,False,,False,20
+Accountable leader,AC-180,0.15,30.1,23.1,False,11.0,True,11
+Accountable leader,AC-181,0.35,108.7,39.3,True,15.0,True,15
+Accountable leader,AC-182,0.2,50.2,41.2,False,3.0,True,3
+Accountable leader,AC-183,0.25,78.19999999999999,57.2,True,17.0,True,17
+Accountable leader,AC-184,0.1,27.4,61.3,False,,False,20
+Accountable leader,AC-185,0.1,19.9,51.4,False,,False,20
+Accountable leader,AC-186,0.35,82.2,50.1,True,,False,20
+Accountable leader,AC-187,0.45,132.3,23.9,True,1.0,True,1
+Accountable leader,AC-188,0.3,79.0,100.0,True,,False,20
+Accountable leader,AC-189,0.3,93.7,75.8,True,,False,20
+Accountable leader,AC-190,0.15,42.5,91.7,False,,False,20
+Accountable leader,AC-191,0.4,106.4,59.6,True,,False,20
+Accountable leader,AC-192,0.3,78.5,78.6,True,,False,20
+Accountable leader,AC-193,0.4,105.39999999999999,36.6,True,16.0,True,16
+Accountable leader,AC-194,0.2,50.1,72.3,False,,False,20
+Accountable leader,AC-195,0.65,200.4,43.2,True,1.0,True,1
+Accountable leader,AC-196,0.15,38.3,57.2,False,,False,20
+Accountable leader,AC-197,0.25,60.9,52.8,True,12.0,True,12
+Accountable leader,AC-198,0.5,123.6,81.7,True,,False,20
+Accountable leader,AC-199,0.35,101.0,43.5,True,20.0,True,20
+Accountable leader,AC-200,0.05,12.6,53.0,False,,False,20
+Council,CO-001,0.05,12.8,31.2,False,,False,20
+Council,CO-002,0.15,47.599999999999994,18.9,False,20.0,True,20
+Council,CO-003,0.0,0.0,61.6,False,,False,20
+Council,CO-004,0.15,43.8,47.5,False,,False,20
+Council,CO-005,0.2,70.1,78.6,False,,False,20
+Council,CO-006,0.2,54.9,4.5,False,12.0,True,12
+Council,CO-007,0.05,14.4,32.8,False,,False,20
+Council,CO-008,0.45,130.1,44.8,False,8.0,True,8
+Council,CO-009,0.1,22.700000000000003,57.9,False,,False,20
+Council,CO-010,0.1,28.700000000000003,37.3,False,16.0,True,16
+Council,CO-011,0.2,58.2,69.5,False,,False,20
+Council,CO-012,0.05,9.6,68.5,False,,False,20
+Council,CO-013,0.05,12.7,36.9,False,,False,20
+Council,CO-014,0.05,14.9,50.9,False,,False,20
+Council,CO-015,0.05,18.5,74.0,False,,False,20
+Council,CO-016,0.05,10.9,22.9,False,,False,20
+Council,CO-017,0.3,82.2,47.9,False,18.0,True,18
+Council,CO-018,0.05,10.5,55.7,False,,False,20
+Council,CO-019,0.45,109.1,69.3,False,,False,20
+Council,CO-020,0.15,50.2,65.4,False,,False,20
+Council,CO-021,0.1,31.5,56.0,False,,False,20
+Council,CO-022,0.2,67.5,83.4,False,,False,20
+Council,CO-023,0.05,11.1,49.3,False,,False,20
+Council,CO-024,0.15,48.1,63.2,False,,False,20
+Council,CO-025,0.05,18.8,64.4,False,,False,20
+Council,CO-026,0.1,26.4,35.9,False,15.0,True,15
+Council,CO-027,0.1,30.6,57.6,False,,False,20
+Council,CO-028,0.15,35.9,64.7,False,,False,20
+Council,CO-029,0.2,71.6,10.8,False,20.0,True,20
+Council,CO-030,0.05,10.5,64.0,False,,False,20
+Council,CO-031,0.05,11.0,50.8,False,,False,20
+Council,CO-032,0.0,0.0,54.3,False,,False,20
+Council,CO-033,0.1,24.5,57.2,False,,False,20
+Council,CO-034,0.25,64.4,53.8,False,13.0,True,13
+Council,CO-035,0.15,40.599999999999994,5.7,False,15.0,True,15
+Council,CO-036,0.0,0.0,58.5,False,,False,20
+Council,CO-037,0.1,28.1,76.6,False,,False,20
+Council,CO-038,0.1,31.7,53.5,False,,False,20
+Council,CO-039,0.1,29.1,54.3,False,,False,20
+Council,CO-040,0.1,21.6,35.8,False,,False,20
+Council,CO-041,0.3,84.1,0.0,False,5.0,True,5
+Council,CO-042,0.15,45.0,49.8,False,,False,20
+Council,CO-043,0.0,0.0,51.8,False,,False,20
+Council,CO-044,0.15,47.8,85.0,False,,False,20
+Council,CO-045,0.05,19.3,66.4,False,,False,20
+Council,CO-046,0.1,31.8,52.9,False,,False,20
+Council,CO-047,0.1,36.1,70.2,False,,False,20
+Council,CO-048,0.1,21.1,56.0,False,,False,20
+Council,CO-049,0.15,49.8,31.7,False,20.0,True,20
+Council,CO-050,0.3,84.3,6.1,False,16.0,True,16
+Council,CO-051,0.3,83.89999999999999,86.2,False,,False,20
+Council,CO-052,0.25,56.7,40.4,False,,False,20
+Council,CO-053,0.25,66.5,57.3,False,,False,20
+Council,CO-054,0.15,30.799999999999997,38.9,False,20.0,True,20
+Council,CO-055,0.35,104.7,87.6,False,,False,20
+Council,CO-056,0.2,47.7,52.4,False,,False,20
+Council,CO-057,0.05,11.3,53.2,False,,False,20
+Council,CO-058,0.2,50.7,49.5,False,9.0,True,9
+Council,CO-059,0.15,50.2,50.7,False,,False,20
+Council,CO-060,0.2,59.6,48.9,False,18.0,True,18
+Council,CO-061,0.1,24.4,67.8,False,,False,20
+Council,CO-062,0.05,8.5,58.0,False,,False,20
+Council,CO-063,0.25,63.2,79.1,False,,False,20
+Council,CO-064,0.3,78.6,45.7,False,,False,20
+Council,CO-065,0.05,15.9,54.2,False,,False,20
+Council,CO-066,0.2,57.5,0.0,False,10.0,True,10
+Council,CO-067,0.25,76.4,39.3,False,,False,20
+Council,CO-068,0.2,68.0,68.7,False,,False,20
+Council,CO-069,0.1,25.5,25.6,False,16.0,True,16
+Council,CO-070,0.0,0.0,32.0,False,,False,20
+Council,CO-071,0.2,52.6,20.5,False,8.0,True,8
+Council,CO-072,0.15,41.0,35.4,False,,False,20
+Council,CO-073,0.05,15.6,57.9,False,,False,20
+Council,CO-074,0.05,16.7,52.4,False,,False,20
+Council,CO-075,0.25,70.7,23.1,False,13.0,True,13
+Council,CO-076,0.2,47.6,0.3,False,3.0,True,3
+Council,CO-077,0.05,9.2,7.3,False,15.0,True,15
+Council,CO-078,0.05,14.9,53.5,False,,False,20
+Council,CO-079,0.15,41.6,74.4,False,,False,20
+Council,CO-080,0.1,25.6,12.6,False,1.0,True,1
+Council,CO-081,0.25,76.5,13.9,False,8.0,True,8
+Council,CO-082,0.05,10.5,71.5,False,,False,20
+Council,CO-083,0.15,52.599999999999994,54.7,False,,False,20
+Council,CO-084,0.0,0.0,65.8,False,,False,20
+Council,CO-085,0.0,0.0,43.2,False,,False,20
+Council,CO-086,0.15,26.4,42.5,False,4.0,True,4
+Council,CO-087,0.1,18.6,79.3,False,,False,20
+Council,CO-088,0.15,50.3,40.0,False,,False,20
+Council,CO-089,0.2,59.1,58.4,False,,False,20
+Council,CO-090,0.4,121.0,85.2,False,,False,20
+Council,CO-091,0.05,10.7,58.4,False,,False,20
+Council,CO-092,0.3,92.0,34.8,False,,False,20
+Council,CO-093,0.15,43.7,56.6,False,,False,20
+Council,CO-094,0.1,26.1,67.8,False,,False,20
+Council,CO-095,0.1,26.700000000000003,39.8,False,20.0,True,20
+Council,CO-096,0.25,67.2,68.9,False,,False,20
+Council,CO-097,0.1,37.4,41.5,False,,False,20
+Council,CO-098,0.45,123.4,17.7,False,6.0,True,6
+Council,CO-099,0.2,58.599999999999994,5.8,False,16.0,True,16
+Council,CO-100,0.1,38.599999999999994,52.0,False,,False,20
+Council,CO-101,0.2,47.4,23.6,False,14.0,True,14
+Council,CO-102,0.45,138.5,69.5,False,11.0,True,11
+Council,CO-103,0.1,30.7,35.8,False,17.0,True,17
+Council,CO-104,0.3,69.7,21.2,False,2.0,True,2
+Council,CO-105,0.2,59.8,45.1,False,20.0,True,20
+Council,CO-106,0.05,16.5,54.4,False,,False,20
+Council,CO-107,0.25,72.9,17.5,False,13.0,True,13
+Council,CO-108,0.2,53.7,48.6,False,20.0,True,20
+Council,CO-109,0.25,79.8,73.3,False,,False,20
+Council,CO-110,0.0,0.0,42.7,False,,False,20
+Council,CO-111,0.2,56.5,16.5,False,17.0,True,17
+Council,CO-112,0.25,72.4,48.6,False,,False,20
+Council,CO-113,0.05,9.3,72.0,False,,False,20
+Council,CO-114,0.15,43.8,84.2,False,,False,20
+Council,CO-115,0.0,0.0,27.6,False,,False,20
+Council,CO-116,0.35,101.7,0.0,False,12.0,True,12
+Council,CO-117,0.15,40.8,19.4,False,12.0,True,12
+Council,CO-118,0.2,57.5,26.1,False,19.0,True,19
+Council,CO-119,0.15,50.2,39.6,False,,False,20
+Council,CO-120,0.3,79.10000000000001,16.5,False,16.0,True,16
+Council,CO-121,0.3,87.7,29.7,False,15.0,True,15
+Council,CO-122,0.15,31.6,38.1,False,15.0,True,15
+Council,CO-123,0.1,27.9,0.0,False,8.0,True,8
+Council,CO-124,0.05,16.7,55.3,False,,False,20
+Council,CO-125,0.05,10.4,69.0,False,,False,20
+Council,CO-126,0.25,87.80000000000001,73.3,False,,False,20
+Council,CO-127,0.25,84.0,0.0,False,10.0,True,10
+Council,CO-128,0.15,39.6,41.4,False,18.0,True,18
+Council,CO-129,0.4,118.3,6.1,False,12.0,True,12
+Council,CO-130,0.05,13.3,42.5,False,,False,20
+Council,CO-131,0.05,13.7,51.6,False,,False,20
+Council,CO-132,0.1,20.5,25.3,False,19.0,True,19
+Council,CO-133,0.3,77.5,9.5,False,18.0,True,18
+Council,CO-134,0.2,60.5,82.9,False,,False,20
+Council,CO-135,0.0,0.0,38.0,False,,False,20
+Council,CO-136,0.1,30.0,38.7,False,16.0,True,16
+Council,CO-137,0.15,50.599999999999994,28.7,False,15.0,True,15
+Council,CO-138,0.05,8.2,55.3,False,,False,20
+Council,CO-139,0.3,90.3,31.5,False,9.0,True,9
+Council,CO-140,0.05,19.1,20.3,False,16.0,True,16
+Council,CO-141,0.2,58.8,49.3,False,2.0,True,2
+Council,CO-142,0.05,12.6,46.7,False,,False,20
+Council,CO-143,0.0,0.0,76.4,False,,False,20
+Council,CO-144,0.05,15.5,12.0,False,14.0,True,14
+Council,CO-145,0.35,104.9,14.3,False,5.0,True,5
+Council,CO-146,0.15,44.2,67.4,False,,False,20
+Council,CO-147,0.05,15.5,56.3,False,,False,20
+Council,CO-148,0.15,44.5,66.2,False,,False,20
+Council,CO-149,0.2,57.2,21.7,False,8.0,True,8
+Council,CO-150,0.25,88.4,6.4,False,7.0,True,7
+Council,CO-151,0.1,34.2,40.1,False,,False,20
+Council,CO-152,0.1,19.5,41.5,False,18.0,True,18
+Council,CO-153,0.1,38.1,6.2,False,19.0,True,19
+Council,CO-154,0.1,29.5,75.5,False,,False,20
+Council,CO-155,0.25,60.0,9.8,False,19.0,True,19
+Council,CO-156,0.05,18.1,43.1,False,,False,20
+Council,CO-157,0.3,90.1,99.0,False,,False,20
+Council,CO-158,0.2,46.8,69.5,False,,False,20
+Council,CO-159,0.25,71.3,19.4,False,12.0,True,12
+Council,CO-160,0.15,49.9,16.5,False,15.0,True,15
+Council,CO-161,0.05,17.7,43.8,False,,False,20
+Council,CO-162,0.2,62.2,9.0,False,15.0,True,15
+Council,CO-163,0.2,43.6,61.9,False,,False,20
+Council,CO-164,0.1,27.8,38.8,False,20.0,True,20
+Council,CO-165,0.15,45.8,23.4,False,20.0,True,20
+Council,CO-166,0.05,17.0,66.0,False,,False,20
+Council,CO-167,0.2,64.5,64.6,False,,False,20
+Council,CO-168,0.0,0.0,42.2,False,,False,20
+Council,CO-169,0.35,106.89999999999999,42.8,False,,False,20
+Council,CO-170,0.15,39.7,65.4,False,,False,20
+Council,CO-171,0.15,40.4,13.8,False,18.0,True,18
+Council,CO-172,0.2,69.9,30.8,False,20.0,True,20
+Council,CO-173,0.2,63.900000000000006,28.9,False,16.0,True,16
+Council,CO-174,0.1,29.700000000000003,69.3,False,,False,20
+Council,CO-175,0.2,58.8,2.4,False,18.0,True,18
+Council,CO-176,0.25,71.9,95.8,False,,False,20
+Council,CO-177,0.3,90.1,35.4,False,19.0,True,19
+Council,CO-178,0.0,0.0,51.7,False,,False,20
+Council,CO-179,0.35,103.0,20.3,False,18.0,True,18
+Council,CO-180,0.1,32.5,47.1,False,,False,20
+Council,CO-181,0.2,47.1,39.4,False,19.0,True,19
+Council,CO-182,0.25,67.0,21.5,False,9.0,True,9
+Council,CO-183,0.1,22.5,77.9,False,,False,20
+Council,CO-184,0.1,35.7,63.1,False,,False,20
+Council,CO-185,0.05,9.1,61.0,False,,False,20
+Council,CO-186,0.15,46.5,74.5,False,,False,20
+Council,CO-187,0.3,87.4,27.4,False,10.0,True,10
+Council,CO-188,0.25,63.6,23.9,False,10.0,True,10
+Council,CO-189,0.1,26.200000000000003,14.4,False,10.0,True,10
+Council,CO-190,0.25,76.7,42.0,False,13.0,True,13
+Council,CO-191,0.3,69.4,73.1,False,,False,20
+Council,CO-192,0.0,0.0,45.5,False,,False,20
+Council,CO-193,0.2,66.7,42.0,False,10.0,True,10
+Council,CO-194,0.1,29.299999999999997,50.7,False,,False,20
+Council,CO-195,0.0,0.0,38.0,False,,False,20
+Council,CO-196,0.25,81.7,18.5,False,7.0,True,7
+Council,CO-197,0.15,38.3,51.6,False,,False,20
+Council,CO-198,0.5,128.70000000000002,0.0,False,9.0,True,9
+Council,CO-199,0.1,28.900000000000002,40.7,False,,False,20
+Council,CO-200,0.15,50.900000000000006,66.3,False,,False,20
+Sole ruler,SO-001,0.8,214.4,94.0,False,,False,20
+Sole ruler,SO-002,0.4,123.5,74.9,False,,False,20
+Sole ruler,SO-003,0.5,145.2,3.6,False,9.0,True,9
+Sole ruler,SO-004,0.7,212.5,23.7,False,8.0,True,8
+Sole ruler,SO-005,0.8,235.2,13.8,False,5.0,True,5
+Sole ruler,SO-006,0.1,25.6,29.7,False,,False,20
+Sole ruler,SO-007,0.4,112.3,94.3,False,,False,20
+Sole ruler,SO-008,0.7,210.0,12.5,False,5.0,True,5
+Sole ruler,SO-009,0.8,218.0,12.3,False,9.0,True,9
+Sole ruler,SO-010,0.65,179.6,100.0,False,,False,20
+Sole ruler,SO-011,0.35,85.4,71.5,False,,False,20
+Sole ruler,SO-012,0.6,155.0,20.9,False,6.0,True,6
+Sole ruler,SO-013,0.9,259.1,0.0,False,2.0,True,2
+Sole ruler,SO-014,0.85,243.79999999999998,22.0,False,1.0,True,1
+Sole ruler,SO-015,0.85,249.70000000000002,54.7,False,5.0,True,5
+Sole ruler,SO-016,0.9,270.2,12.5,False,1.0,True,1
+Sole ruler,SO-017,0.15,44.3,20.7,False,16.0,True,16
+Sole ruler,SO-018,0.55,134.0,21.0,False,7.0,True,7
+Sole ruler,SO-019,0.6,165.7,14.1,False,15.0,True,15
+Sole ruler,SO-020,0.6,184.5,94.1,False,,False,20
+Sole ruler,SO-021,0.75,215.0,24.6,False,2.0,True,2
+Sole ruler,SO-022,0.75,229.7,10.9,False,9.0,True,9
+Sole ruler,SO-023,0.95,240.1,81.9,False,12.0,True,12
+Sole ruler,SO-024,0.45,112.6,67.8,False,,False,20
+Sole ruler,SO-025,0.15,38.8,37.4,False,,False,20
+Sole ruler,SO-026,0.75,208.1,68.3,False,16.0,True,16
+Sole ruler,SO-027,0.55,139.3,6.0,False,3.0,True,3
+Sole ruler,SO-028,0.65,189.2,76.6,False,9.0,True,9
+Sole ruler,SO-029,0.75,213.2,31.3,False,9.0,True,9
+Sole ruler,SO-030,0.55,146.4,28.1,False,6.0,True,6
+Sole ruler,SO-031,0.8,238.39999999999998,51.9,False,11.0,True,11
+Sole ruler,SO-032,0.8,217.5,100.0,False,,False,20
+Sole ruler,SO-033,0.55,138.2,64.2,False,10.0,True,10
+Sole ruler,SO-034,0.4,124.3,70.2,False,9.0,True,9
+Sole ruler,SO-035,0.75,228.0,14.9,False,5.0,True,5
+Sole ruler,SO-036,0.7,203.4,39.3,False,18.0,True,18
+Sole ruler,SO-037,0.6,163.0,62.3,False,8.0,True,8
+Sole ruler,SO-038,0.5,150.9,30.1,False,11.0,True,11
+Sole ruler,SO-039,0.85,232.7,46.5,False,4.0,True,4
+Sole ruler,SO-040,0.75,223.5,12.9,False,9.0,True,9
+Sole ruler,SO-041,0.95,274.2,15.8,False,7.0,True,7
+Sole ruler,SO-042,0.6,173.4,18.7,False,10.0,True,10
+Sole ruler,SO-043,0.35,89.1,73.9,False,,False,20
+Sole ruler,SO-044,0.85,239.4,0.0,False,11.0,True,11
+Sole ruler,SO-045,0.45,142.6,13.4,False,11.0,True,11
+Sole ruler,SO-046,0.45,132.7,27.1,False,3.0,True,3
+Sole ruler,SO-047,0.85,251.4,31.2,False,2.0,True,2
+Sole ruler,SO-048,0.75,175.4,36.2,False,15.0,True,15
+Sole ruler,SO-049,0.4,108.1,0.0,False,15.0,True,15
+Sole ruler,SO-050,0.7,176.8,40.5,False,17.0,True,17
+Sole ruler,SO-051,0.65,165.1,20.0,False,7.0,True,7
+Sole ruler,SO-052,0.75,208.6,38.1,False,18.0,True,18
+Sole ruler,SO-053,0.7,186.9,78.9,False,12.0,True,12
+Sole ruler,SO-054,0.85,224.79999999999998,36.1,False,3.0,True,3
+Sole ruler,SO-055,0.7,186.0,70.9,False,13.0,True,13
+Sole ruler,SO-056,0.5,149.5,6.1,False,11.0,True,11
+Sole ruler,SO-057,0.9,232.9,19.5,False,1.0,True,1
+Sole ruler,SO-058,0.3,82.30000000000001,0.0,False,13.0,True,13
+Sole ruler,SO-059,0.95,292.0,9.3,False,6.0,True,6
+Sole ruler,SO-060,0.55,138.3,35.6,False,12.0,True,12
+Sole ruler,SO-061,0.75,197.5,21.1,False,1.0,True,1
+Sole ruler,SO-062,1.0,284.6,25.9,False,10.0,True,10
+Sole ruler,SO-063,0.75,208.9,32.2,False,18.0,True,18
+Sole ruler,SO-064,0.5,152.5,64.5,False,19.0,True,19
+Sole ruler,SO-065,0.7,202.6,9.5,False,3.0,True,3
+Sole ruler,SO-066,0.75,219.4,67.9,False,19.0,True,19
+Sole ruler,SO-067,0.85,236.3,0.0,False,1.0,True,1
+Sole ruler,SO-068,0.55,159.8,28.3,False,5.0,True,5
+Sole ruler,SO-069,0.5,135.5,0.0,False,6.0,True,6
+Sole ruler,SO-070,1.0,292.7,6.1,False,3.0,True,3
+Sole ruler,SO-071,0.8,191.8,19.2,False,11.0,True,11
+Sole ruler,SO-072,0.55,132.0,75.0,False,13.0,True,13
+Sole ruler,SO-073,0.75,214.9,12.8,False,7.0,True,7
+Sole ruler,SO-074,0.8,229.1,6.1,False,7.0,True,7
+Sole ruler,SO-075,0.5,149.0,25.8,False,16.0,True,16
+Sole ruler,SO-076,0.55,137.8,36.3,False,5.0,True,5
+Sole ruler,SO-077,0.25,56.099999999999994,27.2,False,9.0,True,9
+Sole ruler,SO-078,0.75,224.4,79.3,False,18.0,True,18
+Sole ruler,SO-079,0.6,161.3,15.7,False,11.0,True,11
+Sole ruler,SO-080,0.65,187.0,46.9,False,1.0,True,1
+Sole ruler,SO-081,0.95,250.1,6.2,False,9.0,True,9
+Sole ruler,SO-082,0.35,90.4,16.1,False,20.0,True,20
+Sole ruler,SO-083,0.3,88.6,1.8,False,16.0,True,16
+Sole ruler,SO-084,0.25,67.7,49.8,False,,False,20
+Sole ruler,SO-085,0.5,133.5,100.0,False,,False,20
+Sole ruler,SO-086,0.65,179.7,42.0,False,,False,20
+Sole ruler,SO-087,0.45,124.6,100.0,False,,False,20
+Sole ruler,SO-088,0.5,157.0,52.1,False,15.0,True,15
+Sole ruler,SO-089,0.8,220.5,45.6,False,9.0,True,9
+Sole ruler,SO-090,0.8,242.1,47.2,False,15.0,True,15
+Sole ruler,SO-091,0.4,105.69999999999999,21.7,False,15.0,True,15
+Sole ruler,SO-092,0.6,157.6,44.0,False,9.0,True,9
+Sole ruler,SO-093,0.4,112.0,24.9,False,7.0,True,7
+Sole ruler,SO-094,0.5,140.5,71.3,False,6.0,True,6
+Sole ruler,SO-095,0.7,200.2,66.3,False,1.0,True,1
+Sole ruler,SO-096,0.15,37.7,19.9,False,10.0,True,10
+Sole ruler,SO-097,0.4,107.6,38.8,False,14.0,True,14
+Sole ruler,SO-098,0.45,127.4,12.6,False,14.0,True,14
+Sole ruler,SO-099,0.85,225.1,53.3,False,5.0,True,5
+Sole ruler,SO-100,0.6,158.4,44.8,False,12.0,True,12
+Sole ruler,SO-101,0.65,186.9,0.0,False,11.0,True,11
+Sole ruler,SO-102,0.4,106.6,81.4,False,,False,20
+Sole ruler,SO-103,0.6,187.0,68.2,False,,False,20
+Sole ruler,SO-104,0.7,188.2,88.2,False,4.0,True,4
+Sole ruler,SO-105,0.55,137.4,0.3,False,10.0,True,10
+Sole ruler,SO-106,0.8,198.0,64.0,False,3.0,True,3
+Sole ruler,SO-107,0.45,136.3,78.7,False,,False,20
+Sole ruler,SO-108,0.45,118.4,13.9,False,15.0,True,15
+Sole ruler,SO-109,0.8,207.6,26.3,False,2.0,True,2
+Sole ruler,SO-110,0.8,235.0,0.0,False,3.0,True,3
+Sole ruler,SO-111,0.65,167.2,0.7,False,2.0,True,2
+Sole ruler,SO-112,0.4,120.6,20.0,False,2.0,True,2
+Sole ruler,SO-113,0.45,136.1,87.3,False,12.0,True,12
+Sole ruler,SO-114,0.15,48.7,6.1,False,9.0,True,9
+Sole ruler,SO-115,0.9,258.8,52.7,False,5.0,True,5
+Sole ruler,SO-116,0.5,141.7,1.4,False,9.0,True,9
+Sole ruler,SO-117,0.3,91.2,1.0,False,9.0,True,9
+Sole ruler,SO-118,1.0,292.9,56.9,False,16.0,True,16
+Sole ruler,SO-119,0.7,212.3,100.0,False,,False,20
+Sole ruler,SO-120,0.7,195.2,57.8,False,4.0,True,4
+Sole ruler,SO-121,0.75,206.0,90.5,False,13.0,True,13
+Sole ruler,SO-122,0.85,241.1,6.3,False,8.0,True,8
+Sole ruler,SO-123,0.65,200.1,0.0,False,10.0,True,10
+Sole ruler,SO-124,0.8,203.5,55.3,False,8.0,True,8
+Sole ruler,SO-125,0.7,162.9,30.7,False,17.0,True,17
+Sole ruler,SO-126,0.95,281.3,56.6,False,18.0,True,18
+Sole ruler,SO-127,0.6,165.2,22.7,False,10.0,True,10
+Sole ruler,SO-128,0.6,174.6,0.0,False,6.0,True,6
+Sole ruler,SO-129,0.6,176.9,42.8,False,6.0,True,6
+Sole ruler,SO-130,0.75,211.79999999999998,12.4,False,8.0,True,8
+Sole ruler,SO-131,0.75,231.6,9.3,False,12.0,True,12
+Sole ruler,SO-132,0.6,162.4,0.0,False,4.0,True,4
+Sole ruler,SO-133,0.8,233.3,91.2,False,2.0,True,2
+Sole ruler,SO-134,0.4,107.9,88.8,False,,False,20
+Sole ruler,SO-135,0.8,227.1,26.8,False,12.0,True,12
+Sole ruler,SO-136,0.3,87.9,0.0,False,13.0,True,13
+Sole ruler,SO-137,0.85,236.4,100.0,False,,False,20
+Sole ruler,SO-138,0.6,189.9,32.8,False,4.0,True,4
+Sole ruler,SO-139,0.6,160.8,53.7,False,7.0,True,7
+Sole ruler,SO-140,0.7,197.1,13.1,False,2.0,True,2
+Sole ruler,SO-141,0.9,265.2,50.1,False,7.0,True,7
+Sole ruler,SO-142,0.85,227.1,48.4,False,10.0,True,10
+Sole ruler,SO-143,0.75,245.3,51.0,False,7.0,True,7
+Sole ruler,SO-144,0.5,145.5,1.9,False,6.0,True,6
+Sole ruler,SO-145,0.7,209.4,26.0,False,4.0,True,4
+Sole ruler,SO-146,0.15,41.8,47.3,False,,False,20
+Sole ruler,SO-147,0.6,163.3,0.9,False,12.0,True,12
+Sole ruler,SO-148,0.55,136.1,13.8,False,10.0,True,10
+Sole ruler,SO-149,0.8,222.5,64.4,False,6.0,True,6
+Sole ruler,SO-150,0.9,246.3,0.4,False,4.0,True,4
+Sole ruler,SO-151,0.7,169.3,10.5,False,8.0,True,8
+Sole ruler,SO-152,0.45,144.6,54.0,False,15.0,True,15
+Sole ruler,SO-153,0.85,232.4,94.6,False,,False,20
+Sole ruler,SO-154,0.7,204.9,20.2,False,5.0,True,5
+Sole ruler,SO-155,0.5,148.9,12.6,False,3.0,True,3
+Sole ruler,SO-156,0.8,221.1,69.3,False,,False,20
+Sole ruler,SO-157,0.55,154.9,67.3,False,15.0,True,15
+Sole ruler,SO-158,0.55,143.7,0.0,False,10.0,True,10
+Sole ruler,SO-159,0.4,118.0,33.3,False,6.0,True,6
+Sole ruler,SO-160,1.0,279.9,21.4,False,3.0,True,3
+Sole ruler,SO-161,0.4,116.0,71.0,False,,False,20
+Sole ruler,SO-162,0.9,280.7,7.0,False,3.0,True,3
+Sole ruler,SO-163,0.7,210.6,29.7,False,17.0,True,17
+Sole ruler,SO-164,0.35,99.6,31.5,False,2.0,True,2
+Sole ruler,SO-165,0.6,171.6,65.7,False,6.0,True,6
+Sole ruler,SO-166,0.75,203.9,25.2,False,7.0,True,7
+Sole ruler,SO-167,0.9,268.8,71.5,False,1.0,True,1
+Sole ruler,SO-168,0.95,260.0,12.5,False,6.0,True,6
+Sole ruler,SO-169,0.9,238.6,13.1,False,2.0,True,2
+Sole ruler,SO-170,0.7,178.5,94.2,False,,False,20
+Sole ruler,SO-171,0.5,140.2,0.9,False,1.0,True,1
+Sole ruler,SO-172,0.85,238.6,6.0,False,1.0,True,1
+Sole ruler,SO-173,0.55,148.9,6.5,False,10.0,True,10
+Sole ruler,SO-174,0.6,184.2,43.5,False,6.0,True,6
+Sole ruler,SO-175,0.9,254.1,35.2,False,4.0,True,4
+Sole ruler,SO-176,0.9,237.6,23.2,False,8.0,True,8
+Sole ruler,SO-177,0.65,160.0,96.4,False,7.0,True,7
+Sole ruler,SO-178,0.8,229.0,8.5,False,10.0,True,10
+Sole ruler,SO-179,0.55,138.9,18.8,False,11.0,True,11
+Sole ruler,SO-180,0.95,273.7,88.9,False,,False,20
+Sole ruler,SO-181,0.3,89.7,81.5,False,,False,20
+Sole ruler,SO-182,0.65,177.6,6.2,False,13.0,True,13
+Sole ruler,SO-183,0.45,120.7,100.0,False,,False,20
+Sole ruler,SO-184,0.85,235.1,33.0,False,18.0,True,18
+Sole ruler,SO-185,0.6,143.9,88.7,False,7.0,True,7
+Sole ruler,SO-186,0.6,161.9,60.6,False,11.0,True,11
+Sole ruler,SO-187,0.6,184.3,90.6,False,,False,20
+Sole ruler,SO-188,0.5,161.2,86.2,False,,False,20
+Sole ruler,SO-189,0.5,113.9,25.5,False,2.0,True,2
+Sole ruler,SO-190,0.35,95.2,50.2,False,6.0,True,6
+Sole ruler,SO-191,0.7,181.9,100.0,False,,False,20
+Sole ruler,SO-192,0.65,186.1,32.2,False,5.0,True,5
+Sole ruler,SO-193,0.7,171.9,8.4,False,1.0,True,1
+Sole ruler,SO-194,0.4,117.7,0.0,False,10.0,True,10
+Sole ruler,SO-195,0.75,224.7,0.0,False,10.0,True,10
+Sole ruler,SO-196,0.6,159.4,19.4,False,4.0,True,4
+Sole ruler,SO-197,0.6,160.5,32.0,False,5.0,True,5
+Sole ruler,SO-198,1.0,277.3,100.0,False,14.0,True,14
+Sole ruler,SO-199,0.7,195.6,78.7,False,8.0,True,8
+Sole ruler,SO-200,0.75,222.6,60.6,False,20.0,True,20
