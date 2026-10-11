@@ -1,6 +1,6 @@
 """Synthetic data for "Power without accountability", a fan-inspired thought experiment.
 
-A walled city faces a rising threat for 20 seasons. Each season its ruler picks one
+A walled city faces a rising threat for 20 rounds. Each round its ruler picks one
 of three moves:
 
   fortify    safe and slow: small, sure gain in safety
@@ -32,7 +32,7 @@ CHECKS = {"Sole ruler": 0.0, "Accountable leader": 1.0, "Council": 1.0}
 @dataclass
 class Settings:
     rulers: int = 200          # per way of governing
-    seasons: int = 20
+    rounds: int = 20
     effect: float = 1.0        # extra log-odds of striking with no checks
     escalation: float = 0.35   # extra log-odds per past successful strike, unchecked only
     harm_limit: float = 60.0   # outsider harm that gets an accountable leader replaced
@@ -61,7 +61,7 @@ def simulate(settings: Settings = Settings()) -> pd.DataFrame:
             safety, harm_total, wins = 50.0, 0.0, 0
             replaced = False
             first_catastrophe = None
-            for t in range(1, s.seasons + 1):
+            for t in range(1, s.rounds + 1):
                 threat = min(1.0, 0.15 + 0.04 * t + rng.normal(0, 0.05))
                 if gov == "Council":
                     p_member = _sigmoid(_strike_logit(threat, council, unchecked, wins, s))
@@ -96,7 +96,7 @@ def simulate(settings: Settings = Settings()) -> pd.DataFrame:
                     first_catastrophe = t
                 rows.append({
                     "replaced_here": False,
-                    "ruler": ruler, "governance": gov, "season": t, "threat": round(threat, 3),
+                    "ruler": ruler, "governance": gov, "round": t, "threat": round(threat, 3),
                     "choice": choice, "catastrophe": catastrophe, "city_safety": round(safety, 1),
                     "outsider_harm": round(harm, 1), "outsider_harm_total": round(harm_total, 1),
                 })
@@ -112,7 +112,7 @@ def simulate(settings: Settings = Settings()) -> pd.DataFrame:
     return df
 
 
-def ruler_summary(df: pd.DataFrame, seasons: int) -> pd.DataFrame:
+def ruler_summary(df: pd.DataFrame, rounds: int) -> pd.DataFrame:
     g = df.groupby(["governance", "ruler"])
     out = g.agg(
         strike_share=("choice", lambda c: (c == "strike").mean()),
@@ -120,34 +120,34 @@ def ruler_summary(df: pd.DataFrame, seasons: int) -> pd.DataFrame:
         final_safety=("city_safety", "last"),
         replaced=("replaced_here", "any"),
     ).reset_index()
-    first = df[df["catastrophe"]].groupby("ruler")["season"].min()
+    first = df[df["catastrophe"]].groupby("ruler")["round"].min()
     out["first_catastrophe"] = out["ruler"].map(first)
     out["had_catastrophe"] = out["first_catastrophe"].notna()
-    out["seasons_to_catastrophe"] = out["first_catastrophe"].fillna(seasons).astype(int)
+    out["rounds_to_catastrophe"] = out["first_catastrophe"].fillna(rounds).astype(int)
     return out
 
 
 def survival_curve(summary: pd.DataFrame) -> pd.DataFrame:
-    """Kaplan-Meier: share of cities with no catastrophe yet, by season.
-    Cities that never had one are censored at the last season."""
+    """Kaplan-Meier: share of cities with no catastrophe yet, by round.
+    Cities that never had one are censored at the last round."""
     rows = []
     for gov, g in summary.groupby("governance"):
         at_risk = len(g)
         surv = 1.0
-        rows.append({"governance": gov, "season": 0, "share_without_catastrophe": 1.0})
-        for t in sorted(g["seasons_to_catastrophe"].unique()):
-            events = int(((g["seasons_to_catastrophe"] == t) & g["had_catastrophe"]).sum())
+        rows.append({"governance": gov, "round": 0, "share_without_catastrophe": 1.0})
+        for t in sorted(g["rounds_to_catastrophe"].unique()):
+            events = int(((g["rounds_to_catastrophe"] == t) & g["had_catastrophe"]).sum())
             if at_risk > 0:
                 surv *= 1 - events / at_risk
-            rows.append({"governance": gov, "season": int(t), "share_without_catastrophe": surv})
-            at_risk -= int((g["seasons_to_catastrophe"] == t).sum())
+            rows.append({"governance": gov, "round": int(t), "share_without_catastrophe": surv})
+            at_risk -= int((g["rounds_to_catastrophe"] == t).sum())
     return pd.DataFrame(rows)
 
 
 if __name__ == "__main__":
     df = simulate()
-    df.to_csv("data/walled_city_seasons.csv", index=False)
-    summ = ruler_summary(df, Settings().seasons)
+    df.to_csv("data/walled_city_rounds.csv", index=False)
+    summ = ruler_summary(df, Settings().rounds)
     summ.to_csv("data/walled_city_rulers.csv", index=False)
     print(summ.groupby("governance")[["strike_share", "outsider_harm", "final_safety", "had_catastrophe", "replaced"]].mean().round(3))
     null = ruler_summary(simulate(Settings(effect=0, escalation=0)), 20)

@@ -2,7 +2,7 @@
 
 A walled-city thought experiment in Streamlit, on synthetic data.
 
-When power sits with one person who answers to no one, does it get used more recklessly, and who pays for it? Six hundred invented cities face a rising threat for 20 seasons under three ways of holding power: a sole ruler, an accountable leader who is replaced after harming outsiders too much, and a five-member council that needs a majority to strike.
+When power sits with one person who answers to no one, does it get used more recklessly, and who pays for it? Six hundred invented cities face a rising threat for 20 rounds under three ways of holding power: a sole ruler, an accountable leader who is replaced after harming outsiders too much, and a five-member council that needs a majority to strike.
 
 The idea was sparked by a theme in *Attack on Titan*. Nothing here is real data, and the effect is an assumption you set with the sidebar sliders. Set both effect sliders to 0 to see the honest baseline.
 
